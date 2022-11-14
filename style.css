@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,300&display=swap");
+
+p {
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+button {
+  background-color: rgb(15, 15, 15);
+  border-radius: 8px;
+  border-color: rgb(0, 0, 0);
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+#changeButton {
+  position: relative;
+  right: 160px;
+  bottom: -35px;
+}
+
+input {
+  background-color: rgb(15, 15, 15);
+  border-radius: 5px;
+  border-color: rgb(0, 0, 0);
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+head,
+body {
+  background-color: rgb(20, 20, 20);
+}
